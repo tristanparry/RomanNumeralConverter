@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A simple roman numeral converter for the range [1, 3999], using the subtraction principle and programmed in Java. The `RomanConverter` class defines two methods:
+A simple roman numeral converter for the range [1, 3999], using the subtraction principle and programmed in Java. The `RomanConversion` class defines two methods:
 
 >`convertToInt()` - Converts a roman numeral to its corresponding decimal number ([1. 3999])
 >
