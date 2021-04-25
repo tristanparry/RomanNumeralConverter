@@ -1,5 +1,3 @@
-package javaProjects;
-
 // NEW ROMANCONVERSION CLASS
 class RomanConversion { // New class created for the blueprint/idea of the RomanConversion code (this class contains 2 methods, convertToString() and convertToInt())
 	
